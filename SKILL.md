@@ -2,7 +2,7 @@
 name: emr-compliance-profile
 description: 电子病历合规评估技能。基于10大维度、74个检查点对医疗机构电子病历系统进行交互式合规体检，含三级检查点加权评分、关键项一票否决机制与合规画像报告。当用户提到电子病历合规、病历合规评估、病历合规体检、电子病历审查、合规画像、电子病历自查、EMR合规、病历法律风险等需求时触发。
 author: 楠哥说法
-version: 1.1.0
+version: 1.1.1
 license: GPL-3.0
 repository: https://github.com/nangeshuofa/emr-compliance
 ---
@@ -10,7 +10,7 @@ repository: https://github.com/nangeshuofa/emr-compliance
 # 电子病历合规画像
 
 > **作者**：楠哥说法（黄楠律师，四川恒和信律师事务所联席合伙人）
-> **版本**：v1.1.0（基于 v1.0.0 优化，增强可执行性与评分科学性）
+> **版本**：v1.1.1（v1.1.0 条文定位校准 + 2022-2025 专项新规补充）
 > **协议**：GPL-3.0
 > **仓库**：https://github.com/nangeshuofa/emr-compliance
 
